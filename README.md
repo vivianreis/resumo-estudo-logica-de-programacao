@@ -235,5 +235,3 @@ do while
 é parecido com o while mas esse vai ser “faça determinada coisa enquanto tal coisa não for atingida”
 
 <exemplo código do while>
-
-
