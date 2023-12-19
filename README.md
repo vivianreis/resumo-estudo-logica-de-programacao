@@ -40,7 +40,8 @@ Um tipo de dados representa as características de uma variável que determina q
 
 Exemplo tipos de dados primitivos: 
 
-<incluir imagem do vídeo do willian suane>
+<img width="608" alt="image" src="https://github.com/vivianreis/resumo-estudo-logica-de-programacao/assets/14953339/ac5ca39c-bb67-4712-ac1f-284c580f696b">
+
 
 ### Tipos de dados primitivos:
 
@@ -249,7 +250,8 @@ As operações de adição e subtração são aplicadas em seguida.
 
 Abaixo uma tabela de referência dos operadores e suas ordens de avaliação:
 
-<incluir imagem >
+<img width="688" alt="image" src="https://github.com/vivianreis/resumo-estudo-logica-de-programacao/assets/14953339/77895332-fed7-433c-9e56-f37e4fdcc4f5">
+
 
 https://www.devmedia.com.br/operadores-logicos-e-matematicos-da-linguagem-java/25248#:~:text=Precedência%20de%20operadores&text=Operadores%20de%20multiplicação%2C%20divisão%20e,subtração%20são%20aplicadas%20em%20seguida
 
